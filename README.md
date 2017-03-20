@@ -1,1 +1,12 @@
 # maze_problem
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.002.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.003.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.004.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.005.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.006.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.007.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.008.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.009.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.0010.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.0011.png)
+![alt tag](https://github.com/gcobcqwe/maze_problem/blob/master/Demo/Maze-problem/Maze-problem.0012.png)
